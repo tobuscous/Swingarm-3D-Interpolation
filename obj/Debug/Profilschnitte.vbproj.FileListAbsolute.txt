@@ -1,0 +1,80 @@
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.config
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.application
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.pdb
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.xml
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.AssemblyReference.cache
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Form1.resources
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Resources.resources
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.GenerateResource.cache
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.CoreCompileInputs.cache
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.application
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.xml
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.pdb
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.config
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.application
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.pdb
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.xml
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.AssemblyReference.cache
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Form1.resources
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Resources.resources
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.GenerateResource.cache
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.CoreCompileInputs.cache
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.application
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.xml
+Z:\Fertigung\Optikproduktion\Spiegelschleifroboter\Software\Swingarm 3D Interpolation mit Punktewolke - Tobias\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.pdb
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.config
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.application
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.pdb
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.xml
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.AssemblyReference.cache
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Form1.resources
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Resources.resources
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.GenerateResource.cache
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.CoreCompileInputs.cache
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.application
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.xml
+C:\Users\Tobi\Desktop\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.pdb
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.config
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.application
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.pdb
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.xml
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Form1.resources
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Resources.resources
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.GenerateResource.cache
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.CoreCompileInputs.cache
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.application
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.xml
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.pdb
+C:\Users\Tobi\OneDrive\ASA Projekt\Version 2\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.AssemblyReference.cache
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.config
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.application
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.exe
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.pdb
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\bin\Debug\Swingarm Profilometer 3D Interpolation.xml
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Form1.resources
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilometer3D.Resources.resources
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.GenerateResource.cache
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.CoreCompileInputs.cache
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe.manifest
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.application
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.exe
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.xml
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Swingarm Profilometer 3D Interpolation.pdb
+C:\Users\Tobi\OneDrive\ASA Projekt\Swingarm 3D Interpolation\Swingarm 3D Interpolation\Profilschnitt\obj\Debug\Profilschnitte.vbproj.AssemblyReference.cache
